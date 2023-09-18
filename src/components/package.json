@@ -1,0 +1,13 @@
+{
+  "name": "@cc-element-pro/components",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "scripts": {},
+  "peerDependencies": {
+    "vue": "^3.3.4"
+  }
+}
